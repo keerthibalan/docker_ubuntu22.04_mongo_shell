@@ -13,8 +13,9 @@ docker build -t <nameof the image you want) .
 docker build -t ubuntu22.04_mongo_shell
 
 # Create the container
-Docker images
-docker container create -t --name <container name> <image_name>
+Docker images,
+
+docker container create -it --name <containername> <image_name>
 
 # Start the container
 docker container start ubunutu_22.04_mongo
