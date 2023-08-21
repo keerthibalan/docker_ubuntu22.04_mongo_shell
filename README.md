@@ -4,7 +4,7 @@ This repository is responsible for building ubuntu22.04 image with mongo
 # Prerequstics
 
 Docker desktop for windows
-Install docker for RHEL or ubunut
+Install docker for RHEL or ubunutu server
 
 # Build the docker image
 clone the repo and go to the directory in your local system
